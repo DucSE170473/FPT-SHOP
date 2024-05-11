@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WDwbg5rpnbUJiGVQq2frMpzyfmy0hH2WXm+n72ySq3o2FmpZwMEfEA+tB8MEIf1T4d6n+7FVsCj0EF1AANZ85w==",
+  "success": true,
+  "projectFilePath": "D:\\HOCTAP\\Hoc_ASP.NET_web\\mvc01_HelloWorld\\mvc01_HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minhq\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
